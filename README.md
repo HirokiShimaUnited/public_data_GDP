@@ -1,3 +1,6 @@
+First prototype using R to explore public GDP-related data.
+
+
 # Public Data – GDP (Starter)
 
 - `data/raw/` original
